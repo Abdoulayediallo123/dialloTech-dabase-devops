@@ -13,7 +13,7 @@ Perform data analysis to explore patient admissions, treatments, outcomes, and r
 
 Develop interactive Tableau dashboards to communicate findings to stakeholders
 
-##Tools & Technologies
+## Tools & Technologies
 Erwin – Data modeling (conceptual, logical, and physical models)
 
 SQL Server – Database implementation, data storage, and querying
