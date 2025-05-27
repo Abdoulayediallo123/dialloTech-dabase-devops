@@ -44,7 +44,7 @@ Created tables, relationships, and indexes in SQL Server based on Erwin design.
 
 Loaded and validated data from public health sources.
 
-#Data Analysis:
+##Data Analysis:
 
 Wrote SQL queries to extract insights on hospital utilization, outcomes, readmissions, and cost trends.
 
@@ -58,7 +58,7 @@ Resource distribution disparities were evident in staffing levels across regions
 
 Seasonal peaks in ER admissions corresponded with demographic vulnerability.
 
-#Folder Structure
+##Folder Structure
 graphql
 
 📁 erwin-models/       # Data model files (.erwin)
