@@ -61,9 +61,9 @@ Seasonal peaks in ER admissions corresponded with demographic vulnerability.
 ## Folder Structure
 graphql
 
-📁 erwin-models/       # Data model files (.erwin) ` 
+📁 erwin-models/       # Data model files (.erwin) ``` 
 📁 sql-scripts/        # SQL Server table creation, ETL, and queries``  
-📁 tableau-dashboards/ # Packaged Tableau dashboards (.twbx)  ```
+📁 tableau-dashboards/ # Packaged Tableau dashboards (.twbx)  ``
 📁 data/               # Raw and cleaned datasets (CSV, Excel)  ````
 📁 docs/               # Reports, presentation slides, and documentation``````  
 📄 README.md           # Project overview and setup  ```````
