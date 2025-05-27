@@ -1,10 +1,10 @@
 # dialloTech-dabase-devops
 
- 🏥 New York Hospital Capstone Project
+ # 🏥 New York City Hospital Capstone Project
 Overview
-This capstone project focuses on analyzing hospital performance and healthcare outcomes across New York State. By combining robust data modeling, relational database design, and interactive visual analytics, the project aims to uncover patterns and insights that can support healthcare planning and decision-making.
+This capstone project focuses on analyzing hospital performance and healthcare outcomes across New York City. By combining robust data modeling, relational database design, and interactive visual analytics, the project aims to uncover patterns and insights that can support healthcare planning and decision-making.
 
-Objectives
+## Objectives
 Design an efficient healthcare data model representing hospital operations
 
 Build a relational database in SQL Server to store and manage hospital data
@@ -51,9 +51,6 @@ Wrote SQL queries to extract insights on hospital utilization, outcomes, readmis
 Visualization:
 
 Built Tableau dashboards to present KPIs, heatmaps, and drill-down analyses by hospital, region, and time period.
-
-Key Insights
-[Insert your findings here once available. Example:]
 
 Urban hospitals reported higher readmission rates, particularly in low-income ZIP codes.
 
