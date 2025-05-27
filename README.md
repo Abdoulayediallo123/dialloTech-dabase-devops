@@ -24,7 +24,7 @@ Tableau – Visualization and interactive dashboard development
 
 Excel/CSV – Initial data formatting and ingestion
 
-Data Sources
+## Data Sources
 New York State Department of Health (NYSDOH) – Hospital and patient discharge datasets
 
 CMS Hospital Compare – Quality ratings and metrics
@@ -32,19 +32,19 @@ CMS Hospital Compare – Quality ratings and metrics
 U.S. Census Bureau – Demographic and geographic context
 
 Project Workflow
-Data Modeling:
+## Data Modeling:
 
 Designed a healthcare data model in Erwin, capturing entities like hospitals, patients, diagnoses, treatments, and outcomes.
 
 Generated physical model for implementation in SQL Server.
 
-#Database Implementation:
+## Database Implementation:
 
 Created tables, relationships, and indexes in SQL Server based on Erwin design.
 
 Loaded and validated data from public health sources.
 
-##Data Analysis:
+## Data Analysis:
 
 Wrote SQL queries to extract insights on hospital utilization, outcomes, readmissions, and cost trends.
 
@@ -58,7 +58,7 @@ Resource distribution disparities were evident in staffing levels across regions
 
 Seasonal peaks in ER admissions corresponded with demographic vulnerability.
 
-##Folder Structure
+## Folder Structure
 graphql
 
 📁 erwin-models/       # Data model files (.erwin)
@@ -67,7 +67,7 @@ graphql
 📁 data/               # Raw and cleaned datasets (CSV, Excel)
 📁 docs/               # Reports, presentation slides, and documentation
 📄 README.md           # Project overview and setup
-#How to Use
+## How to Use
 Review Data Model: Open .erwin files to explore the conceptual/logical design.
 
 SQL Server Setup:
