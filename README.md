@@ -13,7 +13,7 @@ Perform data analysis to explore patient admissions, treatments, outcomes, and r
 
 Develop interactive Tableau dashboards to communicate findings to stakeholders
 
-Tools & Technologies
+##Tools & Technologies
 Erwin – Data modeling (conceptual, logical, and physical models)
 
 SQL Server – Database implementation, data storage, and querying
@@ -38,13 +38,13 @@ Designed a healthcare data model in Erwin, capturing entities like hospitals, pa
 
 Generated physical model for implementation in SQL Server.
 
-Database Implementation:
+#Database Implementation:
 
 Created tables, relationships, and indexes in SQL Server based on Erwin design.
 
 Loaded and validated data from public health sources.
 
-Data Analysis:
+#Data Analysis:
 
 Wrote SQL queries to extract insights on hospital utilization, outcomes, readmissions, and cost trends.
 
@@ -58,7 +58,7 @@ Resource distribution disparities were evident in staffing levels across regions
 
 Seasonal peaks in ER admissions corresponded with demographic vulnerability.
 
-Folder Structure
+#Folder Structure
 graphql
 
 📁 erwin-models/       # Data model files (.erwin)
@@ -67,7 +67,7 @@ graphql
 📁 data/               # Raw and cleaned datasets (CSV, Excel)
 📁 docs/               # Reports, presentation slides, and documentation
 📄 README.md           # Project overview and setup
-How to Use
+#How to Use
 Review Data Model: Open .erwin files to explore the conceptual/logical design.
 
 SQL Server Setup:
